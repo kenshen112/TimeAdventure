@@ -1,0 +1,5 @@
+﻿  Actions.cpp
+  main.cpp
+  Generating Code...
+E:\TimeTravel\src\Actions.cpp(29): warning C4715: 'Actions::parseDirections': not all control paths return a value
+  Time.vcxproj -> E:\TimeTravel\src\Debug\Time.exe

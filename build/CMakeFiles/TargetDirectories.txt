@@ -1,0 +1,3 @@
+/home/musungo/coding/TimeTravel/build/CMakeFiles/rebuild_cache.dir
+/home/musungo/coding/TimeTravel/build/CMakeFiles/edit_cache.dir
+/home/musungo/coding/TimeTravel/build/CMakeFiles/TimeAdventure.dir

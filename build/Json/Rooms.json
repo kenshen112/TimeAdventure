@@ -1,0 +1,39 @@
+[
+	{
+		"ID": 1,
+		"x": 0,
+		"y": 1,
+		"roomName": "Test Room 1",
+		"roomDescription": "A Test room dear adventurer. What madness lies within",
+		"avalibleDirections" : 
+		[
+			0, 
+			1
+		],
+		"avalibleAction" : 
+		[
+			0,
+			4
+		]
+	},
+
+
+{
+	"ID" : 2,
+	"x" : 1,
+	"y" : 1,
+	"roomName" : "Test Room 2",
+	"roomDescription" :"A small breeze blows through this area. If you had a hammer you could break a wall somewhere",
+	"avalibleDirections" : 
+	[
+		0,
+		1, 
+		3	
+	],
+	"avalibleAction" : 
+	[
+			
+	]
+}
+
+]
